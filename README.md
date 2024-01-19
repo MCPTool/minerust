@@ -1,0 +1,2 @@
+# minerust
+Scanner in rust
